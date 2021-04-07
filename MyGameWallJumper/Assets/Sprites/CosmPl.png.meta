@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: e07da1f5ac3145446812709dabe034ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1253369571165397232
+    second: cosmonaut_spriteset_0
+  - first:
+      213: 1612940698447587666
+    second: cosmonaut_spriteset_1
+  - first:
+      213: -3323493775146104579
+    second: cosmonaut_spriteset_2
+  - first:
+      213: 474432416072786012
+    second: cosmonaut_spriteset_3
+  - first:
+      213: -8456624163529972849
+    second: cosmonaut_spriteset_4
+  - first:
+      213: 5141849660244719675
+    second: cosmonaut_spriteset_5
+  - first:
+      213: 5199148187609543465
+    second: cosmonaut_spriteset_6
+  - first:
+      213: 3274244220928454895
+    second: cosmonaut_spriteset_7
+  - first:
+      213: -1470483871750787713
+    second: cosmonaut_spriteset_8
+  - first:
+      213: -7919474031317782455
+    second: cosmonaut_spriteset_9
+  - first:
+      213: 7078777287412241139
+    second: cosmonaut_spriteset_10
+  - first:
+      213: 1429802959078431718
+    second: cosmonaut_spriteset_11
+  - first:
+      213: -2712270040908285002
+    second: cosmonaut_spriteset_12
+  - first:
+      213: -5075585811490618908
+    second: cosmonaut_spriteset_13
+  - first:
+      213: -682589738932465334
+    second: cosmonaut_spriteset_14
+  - first:
+      213: -2197627175093873692
+    second: cosmonaut_spriteset_15
+  - first:
+      213: 1762539035263014784
+    second: cosmonaut_spriteset_16
+  - first:
+      213: 8361997189314890600
+    second: cosmonaut_spriteset_17
+  - first:
+      213: -2013918908007721688
+    second: cosmonaut_spriteset_18
+  - first:
+      213: -8692543032360678427
+    second: cosmonaut_spriteset_19
+  - first:
+      213: 2845107844243380839
+    second: cosmonaut_spriteset_20
+  - first:
+      213: 3347572018920331970
+    second: cosmonaut_spriteset_21
+  - first:
+      213: 3587629296068695971
+    second: cosmonaut_spriteset_22
+  - first:
+      213: -1881622668098322555
+    second: cosmonaut_spriteset_23
+  - first:
+      213: -91599515654148576
+    second: cosmonaut_spriteset_24
+  - first:
+      213: 1555745759513434299
+    second: CosmPl_0
+  - first:
+      213: 9160247128983638709
+    second: CosmPl_1
+  - first:
+      213: -7718306529094943452
+    second: CosmPl_2
+  - first:
+      213: -8426138693846084926
+    second: CosmPl_3
+  - first:
+      213: -922928042076276365
+    second: CosmPl_4
+  - first:
+      213: 6344490452983213522
+    second: CosmPl_5
+  - first:
+      213: -1923903881442395578
+    second: CosmPl_6
+  - first:
+      213: 2545923212561802703
+    second: CosmPl_7
+  - first:
+      213: -2117233059548951358
+    second: CosmPl_8
+  - first:
+      213: 385440732969958054
+    second: CosmPl_9
+  - first:
+      213: 3246806361341753926
+    second: CosmPl_10
+  - first:
+      213: 6563031870067063161
+    second: CosmPl_11
+  - first:
+      213: 8555701537863775722
+    second: CosmPl_12
+  - first:
+      213: 1473915848257549903
+    second: CosmPl_13
+  - first:
+      213: 3623267623976469284
+    second: CosmPl_14
+  - first:
+      213: -1434983927361931706
+    second: CosmPl_15
+  - first:
+      213: 7317121504390358345
+    second: CosmPl_16
+  - first:
+      213: 9066213359967872195
+    second: CosmPl_17
+  - first:
+      213: 8992156041886995487
+    second: CosmPl_18
+  - first:
+      213: 2196391909038865450
+    second: CosmPl_19
+  - first:
+      213: -4685344117132531113
+    second: CosmPl_20
+  - first:
+      213: -3618784328912630869
+    second: CosmPl_21
+  - first:
+      213: 4662960173181958953
+    second: CosmPl_22
+  - first:
+      213: -8591517577128395410
+    second: CosmPl_23
+  - first:
+      213: -7516065014000586801
+    second: CosmPl_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CosmPl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85e9c868e179510800000000000000
+      internalID: 1555745759513434299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 784
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29cd11b3cbf1f70800000000000000
+      internalID: 9160247128983638709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 784
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db7b9ea1113e490800000000000000
+      internalID: -7718306529094943452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 784
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c251256087501b80800000000000000
+      internalID: -8426138693846084926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 784
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fbcae5d91133f0800000000000000
+      internalID: -922928042076276365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddebe2d3782c0850800000000000000
+      internalID: 6344490452983213522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 588
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a71a4fc9bec45e0800000000000000
+      internalID: -1923903881442395578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 588
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5ea264cafe45320800000000000000
+      internalID: 2545923212561802703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_8
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 588
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0fdaffb31e92e0800000000000000
+      internalID: -2117233059548951358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_9
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 588
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf3a2fd4c595500800000000000000
+      internalID: 385440732969958054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af04eee29fe0d20800000000000000
+      internalID: 3246806361341753926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 392
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793ae0a6b2941b50800000000000000
+      internalID: 6563031870067063161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae532a8f735fbb670800000000000000
+      internalID: 8555701537863775722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 392
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b534a7a6647410800000000000000
+      internalID: 1473915848257549903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 392
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238a4505be684230800000000000000
+      internalID: 3623267623976469284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646723f88b9e51ce0800000000000000
+      internalID: -1434983927361931706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452f8f8d33ab8560800000000000000
+      internalID: 7317121504390358345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c429ca1409a1dd70800000000000000
+      internalID: 9066213359967872195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 196
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149e81174e8acc70800000000000000
+      internalID: 8992156041886995487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_19
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 196
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbdc5edc62b7e10800000000000000
+      internalID: 2196391909038865450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a69d779505afeb0800000000000000
+      internalID: -4685344117132531113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab896473de77cdc0800000000000000
+      internalID: -3618784328912630869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfd44729926b040800000000000000
+      internalID: 4662960173181958953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbcbd884cc4c880800000000000000
+      internalID: -8591517577128395410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmPl_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe0cb01b291b790800000000000000
+      internalID: -7516065014000586801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
